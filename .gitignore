@@ -1,0 +1,57 @@
+# ===============================
+# Maven
+# ===============================
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Maven local repository cache (optional)
+/repository/
+
+# ===============================
+# IntelliJ IDEA
+# ===============================
+.idea/
+*.iml
+*.iws
+out/
+
+# ===============================
+# OS-specific
+# ===============================
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ===============================
+# Logs
+# ===============================
+*.log
+
+# ===============================
+# KIE Workbench / jBPM Designer (if applicable)
+# ===============================
+.kie*
+
+# ===============================
+# VSCode / Eclipse (if used occasionally)
+# ===============================
+.vscode/
+.project
+.classpath
+.settings/
+
+# ===============================
+# Git
+# ===============================
+*.swp
+*.swo
+
+# Optional: Environment files
+.env
